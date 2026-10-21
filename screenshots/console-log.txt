@@ -1,0 +1,26 @@
+[console.debug] [vite] connecting...
+[console.debug] [vite] connected.
+[console.log] MyLeft组件挂载完了
+[console.log] MyLeft组件挂载完了
+[console.log] MyLeft组件被激活了
+[console.log] MyLeft组件被销毁了
+[console.log] MyRight组件挂载完了
+[console.log] MyRight组件被销毁了
+[console.log] MyLeft组件挂载完了
+[console.log] MyLeft组件被缓存了
+[console.log] MyRight组件挂载完了
+[console.log] MyRight组件被激活了
+[console.log] MyRight组件被缓存了
+[console.log] MyLeft组件被激活了
+[console.log] MyRight组件被销毁了
+[console.log] MyLeft组件被缓存了
+[console.log] MyRight组件挂载完了
+[console.log] MyRight组件被销毁了
+[console.log] MyLeft组件被激活了
+[console.log] MyLeft组件被缓存了
+[console.log] MyRight组件挂载完了
+[console.debug] [vite] connecting...
+[console.debug] [vite] connected.
+[console.log] MyLeft组件挂载完了
+[console.log] MyLeft组件挂载完了
+[console.log] MyLeft组件被激活了
