@@ -1,0 +1,9 @@
+[vite] connecting...
+[vite] connected.
+User 组件挂载了： 1
+User 组件挂载了： 9527
+User 组件挂载了： 1
+参数变了： 2
+User 组件挂载了： 9527
+[Vue Router warn]: Path "/user" was passed with params but they will be ignored. Use a named route alongside params instead.
+User 组件挂载了： 9527
