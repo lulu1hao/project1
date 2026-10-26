@@ -51,7 +51,7 @@
         <label><input type="checkbox" value="理财" v-model="business" /> 理财</label>
       </p>
       <button>提交</button>
-      <span class="muted">business 数据：{{ business.length ? business.join('、') : '（空）' }}——"存款"看着勾了，数据里却没有！</span>
+      <span class="muted" >business 数据：{{ business.length ? business.join('、') : '（空）' }}——"存款"看着勾了，数据里却没有！</span>
     </form>
   </div>
 </template>
